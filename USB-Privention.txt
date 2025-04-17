@@ -1,0 +1,45 @@
+==summary=====
+
+make usb, pnp device administrator.
+
+
+method: usbfilter driver, 
+        filesystem filter driver,
+        rootkit
+DLP= data loss prevention
+
+symantic DLP 96$ 4.86$/month
+McAfee endpoint security. 30$/year
+
+-Traditional
+The constant fine-tuning drains security time and money while damaging employee productivity. Ultimately, a rules-based approach provides a false sense of security for businesses: 69% of organizations with a DLP still experience an insider data breach
+
+-New
+https://www.code42.com/
+With Incydr, your valuable files and IP (ex: source code, customer data, product roadmaps) are protected across web, cloud storage, email and apps without overwhelming security teams or inhibiting employee productivity.
+
+
+Minimize time spent defining and maintaining policies
+Incydr monitors all file activity
+Incydr Risk Indicators
+Reduce admin time with high-fidelity alerts
+Eliminate the blind spots of policy-based approaches
+
+5gap
+Complex and incomplete policies
+Constrained by data classification
+Limited visibility into vulnerable data
+High percentage of false positives
+Not user-friendly to analysts and admins
+
+=======open source ============
+https://github.com/mydlp/mydlp-endpoint-win * linux
+
+
+https://docs.microsoft.com/en-us/windows-hardware/drivers/wdf/framework-object-hierarchy
+
+shareware https://www.currentware.com/
+USB Control Software to Prevent Employee Data Theft Access Patrol
+=====================================
+Top 10 Free Data Loss Prevention (DLP) Software in 2022
+Avanan Cloud Email SecurityBetterCloudCode42GitGuardianVIPRE SafeSendNightfallTeramindSafeticaEgress Intelligent Email SecurityNetskope
